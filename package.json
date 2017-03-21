@@ -1,6 +1,6 @@
 {
   "name": "pollbot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Pollbot provides tools for periodically performing a task.  It's intended for us with APIs and web pages.",
   "main": "pollbot.js",
   "directories": {
