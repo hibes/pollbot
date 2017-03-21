@@ -12,8 +12,13 @@
     "mocha": "^3.2.0"
   },
   "scripts": {
+    "publish": "scripts/publish.sh",
     "test": "mocha"
   },
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hibes/pollbot.git"
+  },
   "license": "ISC"
 }
